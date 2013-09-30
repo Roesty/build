@@ -25,8 +25,10 @@ PRODUCT_PACKAGES += \
     Contacts \
     ContactsProvider \
     DefaultContainerService \
+    Halo \
     Home \
     KeyChain \
+    LockClock \
     PicoTts \
     SharedStorageBackup \
     TelephonyProvider \
